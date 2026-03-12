@@ -1,0 +1,8 @@
+{
+  "overrides": [
+    {
+      "files": "*.yaml",
+      "options": { "proseWrap": "never" }
+    }
+  ]
+}
